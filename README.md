@@ -1,1 +1,1 @@
-# cpp_class_repo
+# mz_class_repo
